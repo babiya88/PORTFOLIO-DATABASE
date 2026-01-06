@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "title": "ADVANCED WIRELESS NETWORK SECURITY RESEARCH 🚀",
+        "description": "ANALYZING SECURITY PROTOCOLS ON 2.4GHz AND 5GHz NETWORKS 🔔",
+        "image": "https://i.postimg.cc/pd8ykG5j/F-v-ZXiabt-I-HD-(1).jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://babiya.netlify.app",
+        "technologies": ["HTML", "STATUS", "BABIYA", "Node.js", "whatsapp"],
+        "featured": true
+    },
+    {
+        "id": 2,
+        "title": "MOBILE SECURITY MONITORING SYSTEM 🚀",
+        "description": "EDUCATIONAL RESEARCH ON ANDROID DEVICE NOTIFICATION SYSTEMS 🔔",
+        "image": "https://i.postimg.cc/t4jk76bx/n7nxr0I8-4c-MQ.jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://babiya.netlify.app",
+        "technologies": ["HTML", "Broadcast", "BABIYA", "Node.js", "whatsapp"],
+        "featured": true
+    },
+    {
+        "id": 3,
+        "title": "REMOTE ADMINISTRATION & SECURITY TOOLS 🚀",
+        "description": "POWERFUL TOOLS FOR REMOTE SYSTEM ANALYSIS AND CYBER DEFENSE 🔔",
+        "image": "https://i.postimg.cc/gc3Qdv8k/1U8Q-Xixho-U-HD-(2).jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://wa.me/94762219201",
+        "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "whatsapp bot", "whatsapp"],
+        "featured": true
+    },
+    {
+        "id": 4,
+        "title": "DATABASE VULNERABILITY ASSESSMENT 🚀",
+        "description": "SIMULATING ADVANCED ATTACKS TO SECURE ENTERPRISE DATABASES 🔔",
+        "image": "https://i.postimg.cc/KvZcBc5y/7-he-LTa-FTZ8-HD.jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://discord.gg/AArgYRcPZ",
+        "technologies": ["whiskeysockets/baileys fork", "node.js", "javascript", "whatsapp bot", "whatsapp"],
+        "featured": true
+    },
+    {
+        "id": 5,
+        "title": "REMOTE IMAGE PROCESSING & ACCESS MODULE 🚀",
+        "description": "INTEGRATED TELEGRAM BOT FOR GEOLOCATION AND IMAGE ANALYSIS 🔔",
+        "image": "https://i.postimg.cc/YSfvBg4C/Screenshot-20260103-120914-Google.jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://discord.gg/AArgYRcPZ",
+        "technologies": ["node.js", "javascript", "telegram bot api", "babiya"],
+        "featured": true
+    },
+    {
+        "id": 6,
+        "title": "ELITE AI-POWERED SECURITY PATCHER ⚡",
+        "description": "NEXT-GEN AI DRIVEN VULNERABILITY REPAIR SYSTEM 🔔",
+        "image": "https://i.postimg.cc/MZQPVbJs/lw-Upu-Gfw-Djw-HD-(2).jpg",
+        "github": "https://wa.me/94762219201",
+        "demo": "https://babiya.netlify.app",
+        "technologies": ["node.js", "javascript", "Artificial Intelligence", "babiya"],
+        "featured": true
+    }
+]
