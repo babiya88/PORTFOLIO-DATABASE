@@ -1,0 +1,21 @@
+{
+    "alert": {
+        "title": "WELCOME TO BABIYA OFFICIAL WEBSITE  💗",
+        "message": "THANK YOU ALL VISITED MY WEBSITE",
+        "image": "https://i.postimg.cc/sfcMPRP9/00a80fe3bf2e34772a3038687bcaade6-(1).jpg",
+        "buttons": [
+            {
+                "text": "Explore Works",
+                "url": "#projects"
+            },
+            {
+                "text": "Contact Me",
+                "url": "#contact"
+            },
+            {
+                "text": "Subscribe Youtube",
+                "url": "https://youtube.com/@babiya_technology?si=zXaNMgSc964ZNq12"
+            }
+        ]
+    }
+}
